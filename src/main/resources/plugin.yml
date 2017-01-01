@@ -1,0 +1,6 @@
+main: io.github.redpanda4552.PlateSync.PlateSync
+name: PlateSync
+version: 0.0.1
+author: pandubz
+description: Allows pressure plates to set off other neighboring plates when triggered by a player
+softdepend: [LWC]
