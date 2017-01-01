@@ -13,4 +13,4 @@ PlateSync is a Bukkit plugin and is to be used on a Bukkit/Spigot server. Simply
 PlateSync is LWC aware! LWC is registered as a soft dependency and if present will be queried about protections before executing any tethering operations.
 
 ## Problems, Bugs, All the Not-Fun Stuff ##
-If you find a bug, feel free to let me know by creating an issue here on GitHub or [by email] (mailto:redpanda4552@gmail.com).
+If you find a bug, feel free to let me know by creating an issue here on GitHub, on the [PlateSync Page on BukkitDev] (https://dev.bukkit.org/projects/platesync) or by email at [redpanda4552@gmail.com] (mailto:redpanda4552@gmail.com).
