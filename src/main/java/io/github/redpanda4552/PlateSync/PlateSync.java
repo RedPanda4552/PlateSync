@@ -97,13 +97,10 @@ public class PlateSync extends JavaPlugin {
     }
     
     public void onDisable() {
-        PlateGroup toRemove = null;
-        
         for (PlateGroup plateGroup : getPlateGroups()) {
             plateGroup.deactivatePlates();
-            toRemove = plateGroup;
         }
         
-        removePlateGroup(toRemove);
+        plateGroups.clear();
     }
 }
